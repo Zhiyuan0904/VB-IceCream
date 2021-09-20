@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\khairatun\\.nuget\\packages\\": {}
+    "C:\\Users\\60194\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khairatun\\Desktop\\VB-ICECREAM\\VB\\VB\\VB.vbproj",
+      "projectUniqueName": "C:\\Users\\60194\\Desktop\\OneDrive\\Documents\\SEM 5\\VB.NET\\VB-IceCream\\VB\\VB\\VB.vbproj",
       "projectName": "VB",
-      "projectPath": "C:\\Users\\khairatun\\Desktop\\VB-ICECREAM\\VB\\VB\\VB.vbproj",
-      "packagesPath": "C:\\Users\\khairatun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khairatun\\Desktop\\VB-ICECREAM\\VB\\VB\\obj\\",
+      "projectPath": "C:\\Users\\60194\\Desktop\\OneDrive\\Documents\\SEM 5\\VB.NET\\VB-IceCream\\VB\\VB\\VB.vbproj",
+      "packagesPath": "C:\\Users\\60194\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\60194\\Desktop\\OneDrive\\Documents\\SEM 5\\VB.NET\\VB-IceCream\\VB\\VB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khairatun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\60194\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
