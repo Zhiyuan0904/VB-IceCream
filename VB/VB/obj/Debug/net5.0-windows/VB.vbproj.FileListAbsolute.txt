@@ -17,3 +17,28 @@ C:\Users\eca\Documents\utm\Sem 5\vb\project\VB-IceCream\VB\VB\VB\obj\Debug\net5.
 C:\Users\eca\Documents\utm\Sem 5\vb\project\VB-IceCream\VB\VB\VB\obj\Debug\net5.0-windows\ref\VB.dll
 C:\Users\eca\Documents\utm\Sem 5\vb\project\VB-IceCream\VB\VB\VB\obj\Debug\net5.0-windows\VB.pdb
 C:\Users\eca\Documents\utm\Sem 5\vb\project\VB-IceCream\VB\VB\VB\obj\Debug\net5.0-windows\VB.genruntimeconfig.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.exe
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.deps.json
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.runtimeconfig.json
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.runtimeconfig.dev.json
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.dll
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\ref\VB.dll
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\bin\Debug\net5.0-windows\VB.pdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.vbproj.AssemblyReference.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.Resources.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.vbproj.GenerateResource.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.AssemblyInfoInputs.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.AssemblyInfo.vb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.vbproj.CoreCompileInputs.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.dll
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\ref\VB.dll
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.pdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.genruntimeconfig.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.MainMenu.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.WelcomePage.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.Ingredient.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.Flavour.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.Handpacked.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.IcecreamBase.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB\obj\Debug\net5.0-windows\VB.Topping.resources
