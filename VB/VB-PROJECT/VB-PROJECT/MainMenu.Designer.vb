@@ -71,7 +71,7 @@ Partial Class MainMenu
         '
         Me.handpackedButton.Location = New System.Drawing.Point(540, 170)
         Me.handpackedButton.Name = "handpackedButton"
-        Me.handpackedButton.Size = New System.Drawing.Size(112, 56)
+        Me.handpackedButton.Size = New System.Drawing.Size(115, 56)
         Me.handpackedButton.TabIndex = 4
         Me.handpackedButton.Text = "Handpacked"
         Me.handpackedButton.UseVisualStyleBackColor = True
@@ -91,7 +91,7 @@ Partial Class MainMenu
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(919, 492)
+        Me.ClientSize = New System.Drawing.Size(931, 500)
         Me.Controls.Add(Me.welcomepageButton)
         Me.Controls.Add(Me.handpackedButton)
         Me.Controls.Add(Me.baseButton)
