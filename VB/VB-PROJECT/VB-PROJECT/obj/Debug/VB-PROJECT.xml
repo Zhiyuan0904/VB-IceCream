@@ -22,5 +22,190 @@ VB-PROJECT
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Flavour_StockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Handpacked_StockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.IceCream_Base_StockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Ingredients_StockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.List_Stock_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Toppings_StockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.RelationshipDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Flavour_StockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Handpacked_StockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.IceCream_Base_StockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Ingredients_StockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.List_Stock_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Toppings_StockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.RelationshipRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Flavour_StockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Handpacked_StockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.IceCream_Base_StockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Ingredients_StockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.List_Stock_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.Toppings_StockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSet.RelationshipRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.Flavour_StockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.Handpacked_StockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.IceCream_Base_StockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.Ingredients_StockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.List_Stock_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.Toppings_StockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.RelationshipTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(VB_PROJECT._VB_PROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(VB_PROJECT._VB_PROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(VB_PROJECT._VB_PROJECTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.UpdateAll(VB_PROJECT._VB_PROJECTDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:VB_PROJECT._VB_PROJECTDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 </members>
 </doc>

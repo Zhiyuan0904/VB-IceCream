@@ -4,7 +4,7 @@
         MainMenu.Show()
     End Sub
 
-    Private Sub Toppings_StockBindingNavigatorSaveItem_Click(sender As Object, e As EventArgs) Handles MyBases_StockBindingNavigatorSaveItem.Click, MyBases_StockBindingNavigatorSaveItem.Click, MyBases_StockBindingNavigatorSaveItem.Click, MyBases_StockBindingNavigatorSaveItem.Click, MyBases_StockBindingNavigatorSaveItem.Click
+    Private Sub Toppings_StockBindingNavigatorSaveItem_Click(sender As Object, e As EventArgs) Handles Toppings_StockBindingNavigatorSaveItem.Click
         Me.Validate()
         Me.Toppings_StockBindingSource.EndEdit()
         Me.TableAdapterManager.UpdateAll(Me._VB_PROJECTDataSet)

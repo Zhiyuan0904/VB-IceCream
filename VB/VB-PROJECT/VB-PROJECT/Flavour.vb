@@ -4,7 +4,7 @@
         MainMenu.Show()
     End Sub
 
-    Private Sub Flavour_StockBindingNavigatorSaveItem_Click(sender As Object, e As EventArgs) Handles MyBase_StockBindingNavigatorSaveItem.Click, MyBase_StockBindingNavigatorSaveItem.Click, MyBase_StockBindingNavigatorSaveItem.Click, MyBase_StockBindingNavigatorSaveItem.Click, MyBase_StockBindingNavigatorSaveItem.Click, MyBase_StockBindingNavigatorSaveItem.Click
+    Private Sub Flavour_StockBindingNavigatorSaveItem_Click(sender As Object, e As EventArgs) Handles Flavour_StockBindingNavigatorSaveItem.Click
         Me.Validate()
         Me.Flavour_StockBindingSource.EndEdit()
         Me.TableAdapterManager.UpdateAll(Me._VB_PROJECTDataSet)

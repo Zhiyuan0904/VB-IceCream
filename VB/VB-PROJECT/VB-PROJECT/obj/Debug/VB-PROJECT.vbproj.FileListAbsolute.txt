@@ -16,3 +16,22 @@ C:\Users\60194\Desktop\OneDrive\Documents\SEM 5\VB.NET\VB-PROJECT\VB-IceCream\VB
 C:\Users\60194\Desktop\OneDrive\Documents\SEM 5\VB.NET\VB-PROJECT\VB-IceCream\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.exe
 C:\Users\60194\Desktop\OneDrive\Documents\SEM 5\VB.NET\VB-PROJECT\VB-IceCream\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.xml
 C:\Users\60194\Desktop\OneDrive\Documents\SEM 5\VB.NET\VB-PROJECT\VB-IceCream\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.pdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.vbproj.AssemblyReference.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.Flavour.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.Handpacked.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.IceCreamBase.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.Ingredient.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.MainMenu.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.Topping.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.WelcomePage.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB_PROJECT.Resources.resources
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.vbproj.GenerateResource.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.exe
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.xml
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\obj\Debug\VB-PROJECT.pdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\bin\Debug\VB-PROJECT.mdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\bin\Debug\VB-PROJECT.exe.config
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\bin\Debug\VB-PROJECT.exe
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\bin\Debug\VB-PROJECT.pdb
+C:\Users\khairatun\Desktop\VB-ICECREAM\VB\VB-PROJECT\VB-PROJECT\bin\Debug\VB-PROJECT.xml
